@@ -1,6 +1,6 @@
 package sorting;
 
-public class TopDownMergeSort
+public final class TopDownMergeSort
 {
     public static void sort(int[] array, int beginIndex, int endIndex)
     {
